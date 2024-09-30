@@ -1,0 +1,35 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+table , tr {
+    background-color: aquamarine;
+    border-width: 10px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 12px;
+    width:100%;
+
+}
+#heading {
+    background-color:darkblue;
+    font-size: 60px;
+    text-align:center;
+    color:antiquewhite;
+}
+#row1
+{
+    background-color:chocolate;
+    text-align:center;
+}
+#row2
+{
+    background-color: white;
+    text-align:center;
+}
+#row3
+{
+    background-color:green;
+    text-align:center;
+}
