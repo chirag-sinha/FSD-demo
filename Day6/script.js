@@ -22,3 +22,11 @@ let change = () => {
     link.setAttribute("href", "www.google.com");
     link.textContent = "Google";
 }
+
+let addcontent =() =>{
+    const newDiv = document.createElement("div");
+    newDiv.textContent ="This is a new Div";
+    const body = document.querySelector('body');
+   body.appendChild(newDiv);
+
+};
